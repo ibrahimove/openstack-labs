@@ -13,9 +13,9 @@ We hope that this glossary of definitions is helpful as you study OpenStack, as 
 
 [OpenStack Manuals](https://github.com/openstack/openstack-manuals).
 
--**Aardvark**- the latest additon to the openstack service catalog, 
+- **Aardvark**- the latest additon to the openstack service catalog, 
 
-Twitter:  https://twitter.com/OpenStack
+- **Twitter:  https://twitter.com/OpenStack,
 
 - **Absolute Limit** [6] Ceiling (limits) for guest VMs. Controlled by defining total limits on RAM, number of vCPUs, and disk size.
 - **Active Passive Configuration** [19] In a high-availability setup with an active/passive configuration, systems are set up to bring additional resources online to replace those that have failed.
